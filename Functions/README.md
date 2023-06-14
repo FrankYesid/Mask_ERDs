@@ -1,2 +1,2 @@
-# Mask_ERDs
+#  Supervised Temporal Patterns (STP)
  
