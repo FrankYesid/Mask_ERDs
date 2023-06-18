@@ -1,2 +1,2 @@
-#  Supervised Temporal Patterns (STP)
+# ERD/S with CSP
  
